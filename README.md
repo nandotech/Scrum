@@ -1,4 +1,6 @@
 # Scrum
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnandotech%2FScrum.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnandotech%2FScrum?ref=badge_shield)
+
 Repository housing readme files for Sprint Planning, Review &amp; Daily Standups
 
 This is simply to be utilized as an accountability tool. 
@@ -42,3 +44,7 @@ _In regards to the sprint:_
 * "E" stimable (to a good approximation)
 * "S" mall (so as to fit within an iteration)
 * "T" estable (in principle, even if there isn't a test for it yet)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnandotech%2FScrum.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnandotech%2FScrum?ref=badge_large)
