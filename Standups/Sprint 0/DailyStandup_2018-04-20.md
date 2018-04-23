@@ -1,4 +1,4 @@
-# Daily Standup 4/19/2018
+# Daily Standup 4/20/2018
 
 1. I began gophercises ex 3 and got through to building the rudimentary working model. Also set up and configured PBX & 
 2. Complete the CYOA web app.
